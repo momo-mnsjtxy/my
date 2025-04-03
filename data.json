@@ -1,0 +1,60 @@
+{
+  "iconList": [
+    {
+      "icon": "assets/images/icon/mail.svg",
+      "url": "mailto:uninto@icloud.com"
+    },
+    {
+      "icon": "assets/images/icon/bilibili.svg",
+      "url": "https://b23.tv/iDh4oum"
+    },
+    {
+      "icon": "assets/images/icon/weibo.svg",
+      "url": "https://weibo.com/u/6476668327"
+    },
+    {
+      "icon": "assets/images/icon/github.svg",
+      "url": "https://github.com/uninto"
+    },
+    {
+      "icon": "assets/images/icon/telegram.svg",
+      "url": "https://t.me/uninto"
+    }
+  ],
+
+  "lineList": [
+    {
+      "time": "以后",
+      "text": "敬请期待"
+    },
+    {
+      "time": "2022-10-22",
+      "text": "注册新域名"
+    },
+    {
+      "time": "2022-10-22",
+      "text": "域名出售"
+    },
+    {
+      "time": "2021-02-08",
+      "text": "独自完成第一个主页"
+    },
+    {
+      "time": "...",
+      "text": "..."
+    },
+    {
+      "time": "2018-01-06",
+      "text": "搭建第一个网站"
+    }
+  ],
+
+  "siteList": [
+    {
+      "name": "博客",
+      "content": "沙星的博客",
+      "url": "https://blog.mnsjtxy.icu/",
+      "status": true
+    }
+  ]
+}
